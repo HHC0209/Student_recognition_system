@@ -1,3 +1,1 @@
-# Student-Recognition-System
-
-A brand new repo for FUDAOYUANs to recognize their students on the spot !!
+An app developed in Python for fudaoyuan to recognize their students.
